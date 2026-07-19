@@ -141,8 +141,6 @@ I am passionate about leveraging data to solve business problems and support str
 
 **Tanay Suryawanshi**
 
-- 📧 Email: *your-email@example.com*
-- 💼 LinkedIn: *Add your LinkedIn profile*
 - 🐙 GitHub: https://github.com/TanaySuryawanshi
 
 ---
